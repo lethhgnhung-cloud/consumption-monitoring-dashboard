@@ -81,3 +81,4 @@ Explore the Model: Open the .pbix file to examine the Star Schema and DAX measur
 Data Dictionary: Refer to Documentation.xlsx for field definitions and data sources.
 
 Link to access this demo: 
+https://github.com/lethhgnhung-cloud/consumption-monitoring-dashboard/blob/main/Snapshot%201.png
