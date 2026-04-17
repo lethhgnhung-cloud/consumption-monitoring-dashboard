@@ -84,3 +84,4 @@ Link to access this demo:
 1. https://github.com/lethhgnhung-cloud/consumption-monitoring-dashboard/blob/main/Snapshot%201.png
 2. https://github.com/lethhgnhung-cloud/consumption-monitoring-dashboard/blob/main/Snapshot%202.png
 3. https://github.com/lethhgnhung-cloud/consumption-monitoring-dashboard/blob/main/Snapshot%203.png
+4. https://github.com/lethhgnhung-cloud/consumption-monitoring-dashboard/blob/main/Snapshot%204.png
