@@ -1,7 +1,7 @@
 # OPERATIONAL RESOURCE INTELLIGENCE DASHBOARD & CONSUMPTION ANALYTICS
 🏢 **1. Executive Summary & Context**
 
-In a multi-branch corporate environment, managing operational expenditures (OPEX) often suffers from "Data Silos"—where information on electricity, fuel, and supplies is scattered across different local reports.
+In a multi-branch corporate environment, managing operational expenditures (OPEX) often suffers from Data Silos - where information on electricity, fuel, and supplies is scattered across different local reports.
 
 This project involved the digital transformation of the resource monitoring process. I built a centralized Operational Intelligence System that consolidates data from multiple sources into a single "Source of Truth." This system allows the leadership team to shift from reactive tracking (finding out what was spent last month) to proactive cost optimization (identifying trends in real-time).
 
@@ -14,7 +14,7 @@ Fact Tables: Centralized fct_Consumption and fct_Budget tables containing transa
 
 Dimension Tables: Optimized lookup tables for dim_Branch, dim_Category, dim_Users, and a dedicated dim_Calendar.
 
-Relationships: 1:Many relationships established to ensure clean filtering without "circular dependency" risks.
+Relationships: Many relationships established to ensure clean filtering without circular dependency risks.
 
 **B. Analytical Logic (Advanced DAX)**
 
@@ -40,7 +40,7 @@ IF(
 
 The dashboard is designed as a 4-tier analytical journey, catering to different stakeholder needs:
 
-- Level 1: Executive Overview: A "Pulse" view for C-level executives focusing on total OPEX vs. Budget and high-level YTD performance.
+- Level 1: Executive Overview: A Pulse view for C-level executives focusing on total OPEX vs. Budget and high-level YTD performance.
 
 - Level 2: Resource Deep-Dive (Paper & Gasoline): Focused on logistics and consumable waste. Helps the Supply Chain team optimize inventory.
 
