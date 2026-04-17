@@ -83,3 +83,4 @@ Data Dictionary: Refer to Documentation.xlsx for field definitions and data sour
 Link to access this demo: 
 1. https://github.com/lethhgnhung-cloud/consumption-monitoring-dashboard/blob/main/Snapshot%201.png
 2. https://github.com/lethhgnhung-cloud/consumption-monitoring-dashboard/blob/main/Snapshot%202.png
+3. https://github.com/lethhgnhung-cloud/consumption-monitoring-dashboard/blob/main/Snapshot%203.png
